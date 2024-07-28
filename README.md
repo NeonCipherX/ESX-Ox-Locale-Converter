@@ -25,7 +25,7 @@ This script processes a folder of ESX FiveM locale files (in `.lua` format) and 
 2. Run the script using Python:
 
     ```bash
-    python convert_locales.py
+    python esx_ox_locale_converter.py
     ```
 
 3. The script will create an `ox_output` directory within the `locales` directory and output the converted JSON files there.
